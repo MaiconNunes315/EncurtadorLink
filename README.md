@@ -4,7 +4,7 @@
 ## Download
 
 ```sh
-git clone https://github.com/MaiconNunes315/jogo-genius.git
+https://github.com/MaiconNunes315/EncurtadorLink.git
 ```
  ## Rodando o projeto
 
